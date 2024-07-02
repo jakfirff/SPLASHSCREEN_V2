@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'SF Distant Galaxy';
+  src: local('SF Distant Galaxy'), url(fonts/SF\ Distant\ Galaxy.ttf), format('ttf');
+}
+
+
+#myCanvas {
+  display: block;
+  opacity: 1; /* Initial opacity */
+  transition: opacity 2s ease; /* Adjust duration as needed */
+}
+
